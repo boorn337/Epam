@@ -94,17 +94,6 @@
   color: gainsboro;
   letter-spacing: 5px;
 }
-/*#forms button {
-  background-color: transparent;
-  color: lightskyblue;
-  border-color: lightskyblue;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  cursor: pointer;
-}*/
 #forms button {
   margin-right: 0;
   margin-left: auto;
@@ -136,10 +125,6 @@
   border-top: 35px solid rgba(0, 195, 217, 255);
   border-right: 275px solid transparent;
   position: absolute;
-}
-.printstyle {
-}
-.printText {
 }
 @media print {
   .triangle-up::before {
